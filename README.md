@@ -5,11 +5,10 @@
 
 ## A simple Imdb Web Scraper Package made using BeautifulSoup
 
-<br>
 # Code Examples
 
 <p align="center">
-  <img src="https://i.imgur.com/Rll3eIL.png" height="190px" />
+  <img src="https://i.imgur.com/Rll3eIL.png" height="290px" />
 </p>
 
 

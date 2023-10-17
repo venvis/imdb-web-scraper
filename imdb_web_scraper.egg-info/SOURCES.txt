@@ -1,0 +1,7 @@
+setup.py
+imdb/__init__.py
+imdb/imdb.py
+imdb_web_scraper.egg-info/PKG-INFO
+imdb_web_scraper.egg-info/SOURCES.txt
+imdb_web_scraper.egg-info/dependency_links.txt
+imdb_web_scraper.egg-info/top_level.txt

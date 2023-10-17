@@ -11,6 +11,12 @@
   <img src="https://i.imgur.com/adWvHVr.png" height="290px" />
 </p>
 
+##  In case of more than one word with space in the genre/category , use a hyphen. For example :
+
+<p align="center">
+  <img src="https://i.imgur.com/2nRTdHG.png" height="290px" />
+</p>
+
 
 ### Use it.
 ```python

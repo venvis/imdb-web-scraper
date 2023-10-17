@@ -8,7 +8,7 @@
 # Code Examples
 
 <p align="center">
-  <img src="https://i.imgur.com/Rll3eIL.png" height="290px" />
+  <img src="https://i.imgur.com/adWvHVr.png" height="290px" />
 </p>
 
 

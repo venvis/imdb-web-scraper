@@ -3,11 +3,13 @@
 ### Use it.
 <br>
 <br>
-```python
+```
 pip install imdb-web-scraper
 ```
 
 
 
 <br>
-```git clone git@github.com:venvis/imdb-web-scraper.git```
+```
+git clone git@github.com:venvis/imdb-web-scraper.git
+```

@@ -20,5 +20,14 @@ setup(
         "Intended Audience :: Developers",
         'License :: OSI Approved :: MIT License',
         "Programming Language :: Python :: 3",
-    ]
+    ],
+     install_requires=[
+        'beautifulsoup4',
+        'requests',
+    ],
+    entry_points={
+        'console_scripts': [
+            'imdb_scraper = my_imdb_scraper.module:main',
+        ],
+    },
 )

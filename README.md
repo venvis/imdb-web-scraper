@@ -20,7 +20,7 @@
 
 ### Use it.
 ```python
-pip install imdb-web-scraper
+pip install imdbwebscraper
 ```
 ### Or
 ```git

@@ -3,7 +3,7 @@
 </p>
 <br>
 <p align="center">
-  <img src="https://static.pepy.tech/badge/imdbwebscraper"  />
+  <a href="https://www.pepy.tech/projects/imdbwebscraper"><img src="https://static.pepy.tech/badge/imdbwebscraper"  /></a>
 </p>
 
 
